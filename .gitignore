@@ -1,0 +1,20 @@
+# Build outputs
+*.o
+*.obj
+simulator
+simulator.exe
+*.out
+
+# Runtime logs
+logs/*.log
+!logs/.gitkeep
+
+# IDE / Editor artifacts
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS artifacts
+.DS_Store
+Thumbs.db

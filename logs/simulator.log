@@ -1,0 +1,13 @@
+
+======================================================
+[2026-10-03 22:57:37] [PID: 24000] [INFO] Smart Home Simulator session initialized.
+======================================================
+[2026-10-03 22:57:37] [PID: 24000] [INFO] System starting up. Initializing modules...
+[2026-10-03 22:57:37] [PID: 24000] [INFO] Initialized 4 standard smart home rooms.
+[2026-10-03 22:57:37] [PID: 24000] [INFO] Room 'Living Room' (ID: 101) transitioned from [OFF (Comfortable)] to [COOLING (AC On)] | Temp: 26.5°C, Occupants: 2
+[2026-10-03 22:57:37] [PID: 24000] [INFO] Room 'Kitchen' (ID: 103) transitioned from [OFF (Comfortable)] to [ECO STANDBY (Unoccupied)] | Temp: 28.0°C, Occupants: 0
+[2026-10-03 22:57:37] [PID: 24000] [INFO] Room 'Study / Office' (ID: 104) transitioned from [OFF (Comfortable)] to [HEATING (Heater On)] | Temp: 17.5°C, Occupants: 1
+[2026-10-03 22:57:37] [PID: 24000] [INFO] Room 'Study / Office' (ID: 104) transitioned from [HEATING (Heater On)] to [OFF (Comfortable)] | Temp: 18.1°C, Occupants: 1
+[2026-10-03 22:57:37] [PID: 24000] [INFO] Advanced simulation by 1 cycle(s). Current cycle: 1
+[2026-10-03 22:57:37] [PID: 24000] [INFO] User requested session termination.
+[2026-10-03 22:57:37] [PID: 24000] [INFO] System terminated gracefully with return code 0.
